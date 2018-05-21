@@ -34,3 +34,4 @@ Functionalities
 .. include:: SVG/ka_user_svg.rst
 .. include:: WhatIf/ka_dev_whatif.rst
 .. include:: WhatIf/ka_user_whatif.rst
+.. include:: indexThumbinals.rst
