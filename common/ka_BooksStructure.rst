@@ -42,3 +42,5 @@ and expressions:
 -  **Menu**, **Menu items** and **static label** refer to specific element of Knowage GUI;
 -  Input field is a label referencing input fields in Knowage GUI;
 -  Code example is a piece of code showing configuration patterns or parts of document template.
+
+.. |image0| image:: ../functionalities-guide/Common/media/image1.png
